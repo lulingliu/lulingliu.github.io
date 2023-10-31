@@ -1,77 +1,80 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Luling Liu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Luling
+last_name: Liu
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🚵🏻‍♀️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: ''
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Beijing Normal University
+    url: https://www.bnu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: ''
+# I am a graduate student in the Faculty of Geographical Science at Beijing Normal University. My research interests include urbanization and sustainable energy development.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Nighttime Light Remote Sensing
+  - Sustainable Energy Development
+  - Inequalities 
+  - Human activities
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Cartography and Geographic Information Engineering
+      institution: Beijing Normal University
+      year: 2021-present
+    - course: BSc in Geographic Information Science
+      institution: China University of Geosciences (Beijing)                                                               
+      year: 2017-2021
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
+      - name: R
+        description: Extensive experience in cleaning and processing socioeconomic data, skilled in modeling panel data for specific research needs, advanced data presentation skills 
+        percent: 80
+        icon: r
+        icon_pack: fab
       - name: Python
-        description: ''
+        description: Proficient in temporal-spatial processing and analysis of large raster datasets
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
+      - name: JavaScript
+        description: Experience in ecological environment monitoring and minor crop identification using Google Earth Engine. 
+        percent: 80
+        icon: js
+        icon_pack: fab
+  - name: Language
+    items:
+      - name: English
+        description: IELTS scores 7.0, proficient in communication (oral 7.0) and writing. 
+      - name: Chinese
+        description: Native speaker.  
+  
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Hiking
-        description: ''
+        description: Autumn is the best season for hiking!
         percent: 60
         icon: person-hiking
         icon_pack: fas
@@ -93,22 +96,17 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 'mailto:lulingliu@mail.bnu.edu.cn'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/lulingliu/
+
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +118,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a graduate student in the Faculty of Geographical Science at Beijing Normal University. My research interests include urbanization and sustainable energy development.
 {style="text-align: justify;"}
