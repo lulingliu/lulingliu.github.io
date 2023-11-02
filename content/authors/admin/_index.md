@@ -37,10 +37,37 @@ education:
   courses:
     - course: MSc in Cartography and Geographic Information Engineering
       institution: Beijing Normal University
-      year: 2021-present
+      year: 2021 - 2024
     - course: BSc in Geographic Information Science
       institution: China University of Geosciences (Beijing)                                                               
-      year: 2017-2021
+      year: 2017 - 2021
+
+
+
+# Social/Academic Networking
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:lulingliu@mail.bnu.edu.cn'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/lulingliu/
+
+  # Link to a PDF of your resume/CV.
+  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
+  # and uncomment the lines below.
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/Luling_Liu_CV_PhD_Application.pdf
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -49,7 +76,7 @@ skills:
     items:
       - name: R
         description: Extensive experience in cleaning and processing socioeconomic data, skilled in modeling panel data for specific research needs, advanced data presentation skills 
-        percent: 80
+        percent: 100
         icon: r
         icon_pack: fab
       - name: Python
@@ -75,7 +102,7 @@ skills:
     items:
       - name: Hiking
         description: Autumn is the best season for hiking!
-        percent: 60
+        percent: 85
         icon: person-hiking
         icon_pack: fas
       - name: Cats
@@ -89,33 +116,9 @@ skills:
         icon: camera-retro
         icon_pack: fas
 
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:lulingliu@mail.bnu.edu.cn'
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com/GeorgeCushen
-  #   label: Follow me on Twitter
-  #   display:
-  #     header: true
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/lulingliu/
-
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
-
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
 ---
 
 I am a graduate student in the Faculty of Geographical Science at Beijing Normal University. My research interests include urbanization and sustainable energy development.
