@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: custom_theme  #minimal
+  theme_day: minimal # custom_theme  
   theme_night: minimal
   font: minimal
   font_size: L
@@ -63,7 +63,7 @@ locale:
 
 features:
   syntax_highlighter:
-  theme_day: custom_theme  #github-light
+  theme_day: github-light #custom_theme  
   theme_dark: dracula
   math:
     enable: false
