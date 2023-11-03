@@ -90,51 +90,20 @@ sections:
 
 
 
-  # - block: collection
-  #   id: grant
-  #   content:
-  #     title: Awards & Grants
-  #     items:
-  #     - title: Grants
-  #       filters:
-  #         folders:
-  #           - posts
-  #     - title: Awards
-  #       filters:
-  #         folders:
-  #           - posts      
-  #   design:
-  #     columns: '2'
-  #     view: compact
-
-
-
-  - block: markdown
+  - block: collection
+    id: grant
     content:
       title: Awards & Grants
       items:
-        - title: Grants
-          text: |-
-          **Period of Grant Award**: Apr 2023 - Apr 2024    
-          **Role on Project**: Principal Investigator      
-          **Name of Funding Organization**: State Key Laboratory of Remote Sensing Science        
-          **Location**: Beijing, China        
-          **Amount**: $2,750        
-          **Project**: Estimation and analysis of the proportion of global population with access to electricity based on long-term nighttime light remote sensing data.Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!   
-
-        - title: Scholarships
-          text: |-
-          - First-class academic scholarship, Beijing Normal University | 2022
-          - Second-class academic scholarship, Beijing Normal University | 2023
-          
-        - title: Competitions
-          text: |-
-          - Third prize in "Map Cup" Digital Intelligence Agriculture Competition, Syngenta Group China | 2022
-          - Second prize in CUMCM(Contemporary Undergraduate Mathematical Contest in Modeling), CSIAM (China Society for Industrial and Applied Mathematics) | 2019   
+      - title: Grants
+        filters:
+          folders:
+            - posts     
     design:
-      # See Page Builder docs for all section customization options.
-      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
+      view: compact
+
+
 
 
    
