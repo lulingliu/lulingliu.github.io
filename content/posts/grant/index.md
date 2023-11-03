@@ -59,7 +59,7 @@ slides: ''
 #   Otherwise, set `projects = []`.
 # projects:
 #   - example
-projects = []
+# projects : []
 ---
 
 <!-- {{% callout note %}}
