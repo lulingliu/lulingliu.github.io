@@ -3,6 +3,7 @@ title: Grants
 
 # event: Wowchemy Conference
 # event_url: https://example.org
+grant: Recent grant
 
 Name of Funding Organization: State Key Laboratory of Remote Sensing Science
 Location: Beijing, China

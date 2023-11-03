@@ -26,7 +26,7 @@ bio: ''
 # I am a graduate student in the Faculty of Geographical Science at Beijing Normal University. My research interests include urbanization and sustainable energy development.
 
 # Interests to show in About widget
-interests:
+research interests:
   - Nighttime Light Remote Sensing
   - Sustainable Energy Development
   - Inequalities 
@@ -68,6 +68,18 @@ social:
   # - icon: cv
   #   icon_pack: ai
   #   link: uploads/Luling_Liu_CV_PhD_Application.pdf
+
+honors and awards:
+- name: Scholarship
+  - First-class academic scholarship (Top 5%), Beijing Normal University | 2022
+  - Second-class academic scholarship, Beijing Normal University | 2023
+- name: Prize
+  - Third prize in 'Map Cup' Digital Intelligence Agriculture Competition (Member), Syngenta Group China | 2022
+  - Second prize in Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM) (Leader), CSIAM (China Society for Industrial and Applied Mathematics) | 2019
+
+
+
+
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

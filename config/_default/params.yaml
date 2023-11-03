@@ -45,11 +45,11 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Luling Liu.' # 'This work is licensed under {license}''
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
@@ -90,6 +90,9 @@ features:
       category_id: ''
   search:
     provider: wowchemy
+    wowchemy:
+      min_length: 1 # Only the matches whose length exceeds this value will be returned.
+      threshold: 0.3 # Where 0 requires a perfect match and 1 matches anything.
     algolia:
       app_id: ''
       api_key: ''
