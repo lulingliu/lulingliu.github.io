@@ -94,9 +94,9 @@ sections:
     id: grant
     content:
       title: Awards & Grants
-      filters:
-        folders:
-          - posts/grant     
+      # filters:
+      #   folders:
+      #     - posts/grant     
     design:
       columns: '1'
       view: compact
