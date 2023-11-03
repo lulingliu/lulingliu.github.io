@@ -57,7 +57,7 @@ slides: ''
 ---
 
 
-# Grants
+# Recent Grant
 
 **Period of Grant Award**: Apr 2023 - Apr 2024    
 **Role on Project**: Principal Investigator      
