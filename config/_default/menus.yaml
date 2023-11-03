@@ -10,6 +10,9 @@ main:
   - name: Posts
     url: '#posts'
     weight: 20
+  - name: CV
+    url: uploads/Luling_Liu_CV_PhD_Application.pdf
+    weight: 30
   # - name: Project
   #   url: '#project'
   #   weight: 20
@@ -25,6 +28,4 @@ main:
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
- - name: CV
-   url: uploads/Luling_Liu_CV_PhD_Application.pdf
-   weight: 30
+
