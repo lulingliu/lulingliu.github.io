@@ -114,7 +114,7 @@ sections:
       title: Awards & Grants
       items:
         - title: Grants
-          text: 
+          text: |-
           **Period of Grant Award**: Apr 2023 - Apr 2024    
           **Role on Project**: Principal Investigator      
           **Name of Funding Organization**: State Key Laboratory of Remote Sensing Science        
@@ -123,12 +123,12 @@ sections:
           **Project**: Estimation and analysis of the proportion of global population with access to electricity based on long-term nighttime light remote sensing data.Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!   
 
         - title: Scholarships
-          text: 
+          text: |-
           - First-class academic scholarship, Beijing Normal University | 2022
           - Second-class academic scholarship, Beijing Normal University | 2023
           
         - title: Competitions
-          text: 
+          text: |-
           - Third prize in "Map Cup" Digital Intelligence Agriculture Competition, Syngenta Group China | 2022
           - Second prize in CUMCM(Contemporary Undergraduate Mathematical Contest in Modeling), CSIAM (China Society for Industrial and Applied Mathematics) | 2019   
     design:
