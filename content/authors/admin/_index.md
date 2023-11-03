@@ -103,7 +103,6 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: English
-       percent: 90
         description: IELTS scores 7.0, proficient in communication (oral 7.0) and writing. 
       - name: Chinese
         description: Native speaker.  
