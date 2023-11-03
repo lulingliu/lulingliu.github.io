@@ -90,19 +90,29 @@ skills:
         percent: 80
         icon: js
         icon_pack: fab
+  - name: Software
+    items: 
+      - name: GIS
+        description: QGIS (Advanced), ArcMap (Advanced), GRASS GIS (Intermediate)
+      - name: Remote Sensing
+        description: ENVI (Advanced), Google Earth Engine (Intermediate)
+      - name: Statistics
+        description: RStudio (Advanced), Excel (Advanced)
   - name: Language
+    color: '#eeac02'
+    color_border: '#f0bf23'
     items:
       - name: English
+       percent: 90
         description: IELTS scores 7.0, proficient in communication (oral 7.0) and writing. 
       - name: Chinese
         description: Native speaker.  
-  
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Hiking
-        description: Autumn is the best season for hiking!
+        # description: Autumn is the best season for hiking!
         percent: 85
         icon: person-hiking
         icon_pack: fas

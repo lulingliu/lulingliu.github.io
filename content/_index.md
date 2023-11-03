@@ -60,23 +60,28 @@ sections:
       columns: '2'
       view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      flip_alt_rows: true
 
 
   - block: collection
+    id: publications
     content:
       title: Publications and Papers
       # text: |-
       #   {{% callout note %}}
       #   Quickly discover relevant content by [filtering publications](./publication/).
       #   {{% /callout %}}
+      count: 3
       filters:
         folders:
-          - publications/GlobPOP
-        exclude_featured: true
+          - publications
+        exclude_featured: false
+      # Field to sort by, such as Date or Title
+      sort_by: 'Date'
+      sort_ascending: false
     design:
-      columns: '2'
-      view: citation
+      columns: '1'
+      view: compact
 
 
 
