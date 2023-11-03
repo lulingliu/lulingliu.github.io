@@ -4,6 +4,8 @@ title: ''
 date: 2023-11-2
 type: landing
 
+[book layout]({{< relref “_index.md” >}})
+
 sections:
   - block: about.biography
     id: about
