@@ -60,7 +60,7 @@ sections:
       columns: '2'
       view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: row
+      flip_alt_rows: false
 
 
   - block: collection
