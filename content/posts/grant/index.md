@@ -10,8 +10,7 @@ Location: Beijing, China
 Amount: $2,750
 Period of Grant Award: Apr 2023 - Apr 2024
 Role on Project: Principal Investigator
-Title of Project: Estimation and analysis of the proportion of global population with access to electricity
-based on long-term nighttime light remote sensing data
+Title of Project: Estimation and analysis of the proportion of global population with access to electricity based on long-term nighttime light remote sensing data
 
 # summary: An example talk using Wowchemy's Markdown slides feature.
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
