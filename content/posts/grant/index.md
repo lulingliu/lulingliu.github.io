@@ -5,7 +5,7 @@ date: "2023-11-03T00:00:00Z"
 # event_url: https://example.org
 
 # summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: ''
+summary: The page lists my recent project and past awards.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -57,14 +57,16 @@ slides: ''
 ---
 
 
+
 # Recent Grant
 
-**Period of Grant Award**: Apr 2023 - Apr 2024    
-**Role on Project**: Principal Investigator      
-**Name of Funding Organization**: State Key Laboratory of Remote Sensing Science        
-**Location**: Beijing, China        
-**Amount**: $2,750        
-**Project**: Estimation and analysis of the proportion of global population with access to electricity based on long-term nighttime light remote sensing data.
+- **Period of Grant Award**: Apr 2023 - Apr 2024    
+- **Role on Project**: Principal Investigator     
+- **Project**: Estimation and analysis of the proportion of global population with access to electricity based on long-term nighttime light remote sensing data. 
+- Funding Organization: State Key Laboratory of Remote Sensing Science        
+- Location: Beijing, China        
+- Amount: $2,750        
+
 
 # Scholarships
 
