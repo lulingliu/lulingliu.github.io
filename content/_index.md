@@ -98,7 +98,7 @@ sections:
       - title: Grants
         filters:
           folders:
-            - posts     
+            - grant     
     design:
       columns: '2'
       view: compact
