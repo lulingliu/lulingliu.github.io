@@ -1,6 +1,6 @@
 ---
 title: Recent Grant
-
+date: "2023-11-03T00:00:00Z"
 # event: Wowchemy Conference
 # event_url: https://example.org
 
@@ -60,8 +60,11 @@ slides: ''
 **Period of Grant Award**: Apr 2023 - Apr 2024
 
 **Name of Funding Organization**: State Key Laboratory of Remote Sensing Science
+
 **Location**: Beijing, China
+
 **Amount**: $2,750
+
 
 **Role on Project**: Principal Investigator
 

@@ -12,34 +12,56 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
-  - block: portfolio
-    id: projects
+  - block: experience
     content:
       title: Experience
-      filters:
-        folders:
-          - projects
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
-      filter_button: ''
-      # buttons:
-      #   - name: All
-      #     tag: '*'
-      #   - name: Project
-      #     tag: Project
-      #   - name: Competition
-      #     tag: Competition
+      date_format: Jan 2006
+      items:
+        - title: Team member
+          company: National Natural Science Foundation of China - Major Program Sub-Project
+          location: Beijing,China
+          date_start: '2022-04-01'
+          date_end: ''
+          description: |2-
+              Subject: 
+
+              Land surface anomaly remote sensing response characteristics and semantic representation
+
+              Responsibilities include:
+
+              * Surveyed a total of 54 articles, and completed a 10,000-word report containing remote sensing response characteristics for three types of land surface anomalies.
+              * Collected 42 real remote sensing early warning cases for land surface anomaly and relevant remote sensing data.
+        - title: Team member
+          company: Special Project of Science and Technology Basic Resources Survey
+          location: Beijing, China
+          date_start: '2022-01-01'
+          date_end: '2022-12-01'
+          description: |2-
+              Subject: 
+
+              Knowledge Points on the Overall Distribution and Variation of Land Cover
+
+              Responsibilities include:
+
+              * Extracted about hundreds of knowledge points about the overall distribution and changes of the three land cover types of forest, shrub and grassland from 2000 to 2020.
+              * Automatically completed all knowledge point documents in batches using R language.
+        - title: Team member
+          company: Crop Field Survey in Shandong Province 
+          location: Shandong, China
+          date_start: '2022-08-01'
+          date_end: '2022-08-31'
+          description: |2-
+              Responsibilities include:
+
+              * Participated in collecting 736 sample points and 11 drone flight areas.
+              * Designed rules for vegetable extraction using radar remote sensing feature and peak growth period extraction on the GEE platform
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: true
+
 
   - block: collection
     content:
@@ -50,7 +72,7 @@ sections:
       #   {{% /callout %}}
       filters:
         folders:
-          - publications
+          - publications/GlobPOP
         exclude_featured: true
     design:
       columns: '2'
