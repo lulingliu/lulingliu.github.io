@@ -22,16 +22,16 @@ Abstract: Continuously monitoring global population spatial dynamics is crucial 
 
 
 links:
-- name: Availabity
-  url: http://example.org
-url_pdf: ''
+# - name: Availabity
+#   url: http://example.org
+# url_pdf: ''
 url_code: 'https://github.com/lulingliu/GlobPOP'
 url_dataset: 'https://doi.org/10.5281/zenodo.8019392'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
