@@ -90,7 +90,7 @@ sections:
 
 
 
-  - block: collection
+  - block: accomplishments
     id: grant
     content:
       title: Awards & Grants
