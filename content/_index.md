@@ -56,7 +56,7 @@ sections:
       title: Experience
       filters:
         folders:
-          - project
+          - projects
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
@@ -64,30 +64,31 @@ sections:
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Project
-          tag: Project
-        - name: Competition
-          tag: Competition
+      filter_button: ''
+      # buttons:
+      #   - name: All
+      #     tag: '*'
+      #   - name: Project
+      #     tag: Project
+      #   - name: Competition
+      #     tag: Competition
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '12'
+      columns: '2'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: true
 
   - block: collection
     content:
-      title: Publications And Papers
+      title: Publications and Papers
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
         {{% /callout %}}
       filters:
         folders:
-          - publication
+          - publications
         exclude_featured: true
     design:
       columns: '2'
@@ -97,12 +98,12 @@ sections:
 
 
   - block: collection
-    id: Awards And Grants
+    id: grant
     content:
       title: Awards & Grants
       filters:
         folders:
-          - event
+          - posts
     design:
       columns: '2'
       view: compact
