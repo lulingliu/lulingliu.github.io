@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: custom theme #minimal
+  theme_day: custom_theme  #minimal
   theme_night: minimal
   font: minimal
   font_size: L
@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: ''
+    twitter: ''
   analytics:
     google_analytics: G-FXWVRHGM9F
     baidu_tongji: ''
@@ -63,14 +63,14 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: github-light
-    theme_dark: dracula
+  theme_day: custom_theme  #github-light
+  theme_dark: dracula
   math:
     enable: false
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/lulingliu/lulingliu.github.io'
     content_dir: content
     branch: main
   avatar:
@@ -99,7 +99,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
+    provider: 'mapnik'
     api_key: ''
     zoom: 15
 
