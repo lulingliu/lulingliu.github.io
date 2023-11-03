@@ -12,7 +12,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
-  - block: experience
+  - block: portfolio #experience
     content:
       title: Experience
       date_format: Jan 2006
@@ -60,7 +60,7 @@ sections:
       columns: '2'
       view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: true
+      flip_alt_rows: row
 
 
   - block: collection
