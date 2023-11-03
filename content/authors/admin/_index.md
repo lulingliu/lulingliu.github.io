@@ -36,11 +36,11 @@ interests:
 education:
   courses:
     - course: MSc in Cartography and Geographic Information Engineering
-      institution: Beijing Normal University
-      year: 2021 - 2024
+      institution: Beijing Normal University, China
+      year: 2024
     - course: BSc in Geographic Information Science
-      institution: China University of Geosciences (Beijing)                                                               
-      year: 2017 - 2021
+      institution: China University of Geosciences(Beijing), China                                                       
+      year: 2021
 
 
 
@@ -131,5 +131,8 @@ highlight_name: true
 
 ---
 
-I am a graduate student in the Faculty of Geographical Science at Beijing Normal University. My research interests include urbanization and sustainable energy development.
+I am a graduate student in the Faculty of Geographical Science at Beijing Normal University. 
+🙋🏻‍♀️ I am pursuing a potential Ph.D position starting in 2024 fall, please feel free to view my CV and contact me.
 {style="text-align: justify;"}
+
+

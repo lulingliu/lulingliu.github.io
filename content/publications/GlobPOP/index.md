@@ -43,3 +43,13 @@ image:
 
 ---
 
+
+
+**Abstract**
+
+Continuously monitoring global population spatial dynamics is crucial for implementing effective policies related to sustainable development, including epidemiology, urban planning, and global inequality. However, existing global gridded population products lack consistent population estimates, making them unsuitable for time-series analysis. To address this issue, this study designed a data fusion framework based on cluster analysis and statistical learning approaches, which led to the generation of a continuous global gridded population dataset (GlobPOP). 
+
+The GlobPOP dataset was evaluated through two-tier spatial and temporal validation to demonstrate its accuracy and applicability. The spatial validation results show that the GlobPOP dataset is highly accurate. The temporal validation results also reveal that the GlobPOP dataset performs consistently well across eight representative countries and cities despite their unique population dynamics. With the availability of GlobPOP datasets in both population count and population density formats, researchers and policymakers can leverage the new dataset to conduct time-series analysis of the population and explore the spatial patterns of population development at global, national, and city levels. 
+
+
+
