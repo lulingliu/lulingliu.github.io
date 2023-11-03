@@ -96,7 +96,7 @@ sections:
       title: Awards & Grants
       filters:
         folders:
-          - posts/grant
+          - posts
     design:
       columns: '1'
       view: compact
