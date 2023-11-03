@@ -1,5 +1,5 @@
 ---
-title: Recent Grant
+title: Recent grant and past awards
 date: "2023-11-03T00:00:00Z"
 # event: Wowchemy Conference
 # event_url: https://example.org
@@ -64,7 +64,7 @@ slides: ''
 **Name of Funding Organization**: State Key Laboratory of Remote Sensing Science        
 **Location**: Beijing, China        
 **Amount**: $2,750        
-**Project**: Estimation and analysis of the proportion of global population with access to electricity based on long-term nighttime light remote sensing data.Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!   
+**Project**: Estimation and analysis of the proportion of global population with access to electricity based on long-term nighttime light remote sensing data.
 
 # Scholarships
 

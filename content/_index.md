@@ -74,7 +74,7 @@ sections:
           company: Crop Field Survey in Shandong Province 
           location: Shandong, China
           date_start: '2022-08-01'
-          date_end: '2022-08-31'
+          date_end: '2022-09-01'
           description: |2-
               Responsibilities include:
 
