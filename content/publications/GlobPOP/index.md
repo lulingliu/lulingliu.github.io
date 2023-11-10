@@ -26,7 +26,7 @@ links:
 #   url: http://example.org
 # url_pdf: ''
 url_code: 'https://github.com/lulingliu/GlobPOP'
-url_dataset: 'https://doi.org/10.5281/zenodo.8019392'
+url_dataset: 'https://zenodo.org/doi/10.5281/zenodo.7813301'
 # url_poster: '#'
 # url_project: ''
 # url_slides: ''
@@ -51,5 +51,8 @@ Continuously monitoring global population spatial dynamics is crucial for implem
 
 The GlobPOP dataset was evaluated through two-tier spatial and temporal validation to demonstrate its accuracy and applicability. The spatial validation results show that the GlobPOP dataset is highly accurate. The temporal validation results also reveal that the GlobPOP dataset performs consistently well across eight representative countries and cities despite their unique population dynamics. With the availability of GlobPOP datasets in both population count and population density formats, researchers and policymakers can leverage the new dataset to conduct time-series analysis of the population and explore the spatial patterns of population development at global, national, and city levels. 
 
+To validate the temporal accuracy of GlobPOP at the country level, we have developed an interactive web application, accessible at https://globpop.shinyapps.io/GlobPOP/, where data users can explore the country level population time-series curves of interest and compare them with census data.
 
 
+
+<iframe src="https://globpop.shinyapps.io/GlobPOP/" width="600" height="400"></iframe>
