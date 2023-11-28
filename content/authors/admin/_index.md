@@ -27,9 +27,9 @@ bio: ''
 
 # Interests to show in About widget
 interests:
-  - Nighttime Light Remote Sensing
-  - Sustainable Energy Development
-  - Inequalities 
+  - Sustainable energy development
+  - Energy poverty
+  - Nighttime Light Remote Sensing 
   - Human activities
 
 # Education to show in About widget
@@ -82,7 +82,7 @@ skills:
         icon_pack: fab
       - name: Python
         description: Proficient in temporal-spatial processing and analysis of large raster datasets
-        percent: 80
+        percent: 90
         icon: python
         icon_pack: fab
       - name: JavaScript
