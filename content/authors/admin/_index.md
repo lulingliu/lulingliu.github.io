@@ -29,7 +29,7 @@ bio: ''
 interests:
   - Sustainable energy development
   - Energy poverty
-  - Nighttime Light Remote Sensing 
+  - Nighttime light remote sensing 
   - Human activities
 
 # Education to show in About widget
