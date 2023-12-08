@@ -1,8 +1,4 @@
 ---
-
-
-
-
 title: 1st USS - GlobPOP
 # date: "2023-12-15"
 # event: Wowchemy Conference
@@ -78,14 +74,13 @@ slides: ''
 
 ---
 
- <iframe src="uploads/USS_2023_GlobPOP_Luling Liu.pdf" width="100%" height="100%" scrolling="yes" ></iframe>    
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ08Ir0GjHEn7OcKS7dFxLOWexDBVez4At_Qg0UM1XZr3KpHkUct1xi3L0rBP9JM1VYfzqjPXxqyVnB/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>  
 
 
 {{% callout note %}}
-Click on the **Slides** button above to view the slides.
+Click on the **Slides** button above to download the slides.
 {{% /callout %}}
 
-<iframe src="https://lulingliu.github.io/uploads/USS_2023_GlobPOP_Luling%20Liu.pdf" width="100%" height="100%" scrolling="yes" ></iframe>   
 
 <!-- Slides can be added in a few ways:
 
