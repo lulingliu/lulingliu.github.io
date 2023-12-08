@@ -78,11 +78,21 @@ You can **view and download** the poster, slides, dataset, reproducible code, te
 
 
 From google drive - ppt
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ08Ir0GjHEn7OcKS7dFxLOWexDBVez4At_Qg0UM1XZr3KpHkUct1xi3L0rBP9JM1VYfzqjPXxqyVnB/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="100%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>  
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ08Ir0GjHEn7OcKS7dFxLOWexDBVez4At_Qg0UM1XZr3KpHkUct1xi3L0rBP9JM1VYfzqjPXxqyVnB/embed?start=false&loop=false&delayms=3000" frameborder="0" width="327px" height="100%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>  
 
 From one drive - pdf
 <iframe src="https://onedrive.live.com/embed?resid=D14E0CC306E1B8F1%213105&authkey=!AEIMMklQRUTiZjU&em=2" frameborder="0" width="100%" height="100%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>  
 <!-- <iframe src="https://onedrive.live.com/embed?resid=D14E0CC306E1B8F1%213105&authkey=!AEIMMklQRUTiZjU&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe> -->
+
+From one drive - ppt
+<iframe src="https://onedrive.live.com/embed?resid=D14E0CC306E1B8F1%213103&authkey=!AC6Tf6smUPzLAs0&em=2" width="402" height="327" frameborder="0" scrolling="no"></iframe>
+
+<iframe src="https://onedrive.live.com/embed?resid=D14E0CC306E1B8F1%213103&amp;authkey=%21AC6Tf6smUPzLAs0&amp;em=2&amp;wdAr=1.7755102040816326&amp;Embed=1" width="292px" height="327px" frameborder="0"></iframe>
+
+
+From pan_bnu
+<iframe src="https://pan.bnu.edu.cn/l/m1n7KX" width="100%" height="100%" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 {{% callout note %}}
 Click on the **Slides** button above to download the slides.
 {{% /callout %}}
