@@ -5,10 +5,7 @@ title: 1st USS - GlobPOP
 # event_url: https://example.org
 profile: true
 
-event: 1st Urban Science and Sustainability (USS) Conference
-event_url: https://www.ussconference.net/ussc/en
 
-location: The Institute of Urban Environment, Chinese Academy of Sciences (CAS)
 
 summary: Welcome to view the GlobPOP. You can view and download the dataset, reproducible code, temporal validation results and PowerPoint further.
 
@@ -71,15 +68,17 @@ slides: ''
 #   - example
 # projects : []
 ---
-
-Welcome to view the GlobPOP. 
-
-You can view and download the poster, slides, dataset, reproducible code, temporal validation results.
+{{< toc hide_on="xl" >}}
 
 
+# Welcome to view the GlobPOP
+
+You can **view and download** the poster, slides, dataset, reproducible code, temporal validation results.
 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ08Ir0GjHEn7OcKS7dFxLOWexDBVez4At_Qg0UM1XZr3KpHkUct1xi3L0rBP9JM1VYfzqjPXxqyVnB/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>  
+
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ08Ir0GjHEn7OcKS7dFxLOWexDBVez4At_Qg0UM1XZr3KpHkUct1xi3L0rBP9JM1VYfzqjPXxqyVnB/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="100%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>  
 
 
 {{% callout note %}}
@@ -103,7 +102,7 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
 
 
 
-**Abstract**
+# Abstract
 
 Continuously monitoring global population spatial dynamics is crucial for implementing effective policies related to sustainable development, including epidemiology, urban planning, and global inequality. However, existing global gridded population products lack consistent population estimates, making them unsuitable for time-series analysis. To address this issue, this study designed a data fusion framework based on cluster analysis and statistical learning approaches, which led to the generation of a continuous global gridded population dataset (GlobPOP). 
 
@@ -115,4 +114,11 @@ To validate the temporal accuracy of GlobPOP at the country level, we have devel
 
 
 
-<iframe src="https://globpop.shinyapps.io/GlobPOP/" width="100%" height="100%" scrolling="yes" ></iframe>
+<iframe src="https://globpop.shinyapps.io/GlobPOP/" width="100%" height=350 scrolling="yes" ></iframe>
+
+## Event
+
+[1st Urban Science and Sustainability (USS) Conference](https://www.ussconference.net/ussc/en)
+
+## Location
+The Institute of Urban Environment, Chinese Academy of Sciences (CAS)
