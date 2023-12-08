@@ -49,10 +49,12 @@ See https://github.com/adobe-type-tools/cmap-resources
               <button id="viewOutline" class="toolbarButton" title="Show Document Outline (double-click to expand/collapse all items)" tabindex="3" data-l10n-id="pdfjs-document-outline-button" role="radio" aria-checked="false" aria-controls="outlineView">
                  <span data-l10n-id="pdfjs-document-outline-button-label">Document Outline</span>
               </button>
-              <button id="viewAttachments" class="toolbarButton" title="Show Attachments" tabindex="4" data-l10n-id="pdfjs-attachments-button" role="radio" aria-checked="false" aria-controls="attachmentsView">
+                     <!-- 隐藏button方法， 在class属性添加“visibleMediumView”即可 --> 
+              <button id="viewAttachments" class="toolbarButton visibleMediumView" title="Show Attachments" tabindex="4" data-l10n-id="pdfjs-attachments-button" role="radio" aria-checked="false" aria-controls="attachmentsView">
                  <span data-l10n-id="pdfjs-attachments-button-label">Attachments</span>
               </button>
-              <button id="viewLayers" class="toolbarButton" title="Show Layers (double-click to reset all layers to the default state)" tabindex="5" data-l10n-id="pdfjs-layers-button" role="radio" aria-checked="false" aria-controls="layersView">
+                      <!-- 隐藏button方法， 在class属性添加“visibleMediumView”即可 -->
+              <button id="viewLayers" class="toolbarButton visibleMediumView" title="Show Layers (double-click to reset all layers to the default state)" tabindex="5" data-l10n-id="pdfjs-layers-button" role="radio" aria-checked="false" aria-controls="layersView">
                  <span data-l10n-id="pdfjs-layers-button-label">Layers</span>
               </button>
             </div>
@@ -146,21 +148,22 @@ See https://github.com/adobe-type-tools/cmap-resources
             </div>
           </div>
         </div>
-
+        
+        <!-- 隐藏button方法， 在class属性添加“visibleMediumView”即可 -->
         <div class="editorParamsToolbar hidden doorHangerRight" id="editorStampParamsToolbar">
           <div class="editorParamsToolbarContainer">
-            <button id="editorStampAddImage" class="secondaryToolbarButton" title="Add image" tabindex="105" data-l10n-id="pdfjs-editor-stamp-add-image-button">
+            <button id="editorStampAddImage" class="secondaryToolbarButton visibleMediumView" title="Add image" tabindex="105" data-l10n-id="pdfjs-editor-stamp-add-image-button">
               <span data-l10n-id="pdfjs-editor-stamp-add-image-button-label">Add image</span>
             </button>
           </div>
         </div>
-
+        <!-- 隐藏button方法， 在class属性添加“visibleMediumView”即可 -->
         <div id="secondaryToolbar" class="secondaryToolbar hidden doorHangerRight">
           <div id="secondaryToolbarButtonContainer">
-            <button id="secondaryOpenFile" class="secondaryToolbarButton" title="Open File" tabindex="51" data-l10n-id="pdfjs-open-file-button">
+            <button id="secondaryOpenFile" class="secondaryToolbarButton visibleMediumView" title="Open File" tabindex="51" data-l10n-id="pdfjs-open-file-button">
               <span data-l10n-id="pdfjs-open-file-button-label">Open</span>
             </button>
-
+        <!-- 隐藏button方法， 在class属性添加“visibleMediumView”即可 -->
             <button id="secondaryPrint" class="secondaryToolbarButton visibleMediumView" title="Print" tabindex="52" data-l10n-id="pdfjs-print-button">
               <span data-l10n-id="pdfjs-print-button-label">Print</span>
             </button>
@@ -274,13 +277,16 @@ See https://github.com/adobe-type-tools/cmap-resources
               </div>
               <div id="toolbarViewerRight">
                 <div id="editorModeButtons" class="splitToolbarButton toggled" role="radiogroup">
-                  <button id="editorFreeText" class="toolbarButton" disabled="disabled" title="Text" role="radio" aria-checked="false" aria-controls="editorFreeTextParamsToolbar" tabindex="31" data-l10n-id="pdfjs-editor-free-text-button">
+                                       <!-- 隐藏button方法， 在class属性添加“visibleMediumView”即可 --> 
+                  <button id="editorFreeText" class="toolbarButton visibleMediumView" disabled="disabled" title="Text" role="radio" aria-checked="false" aria-controls="editorFreeTextParamsToolbar" tabindex="31" data-l10n-id="pdfjs-editor-free-text-button">
                     <span data-l10n-id="pdfjs-editor-free-text-button-label">Text</span>
                   </button>
-                  <button id="editorInk" class="toolbarButton" disabled="disabled" title="Draw" role="radio" aria-checked="false" aria-controls="editorInkParamsToolbar" tabindex="32" data-l10n-id="pdfjs-editor-ink-button">
+                                       <!-- 隐藏button方法， 在class属性添加“visibleMediumView”即可 --> 
+                  <button id="editorInk" class="toolbarButton visibleMediumView" disabled="disabled" title="Draw" role="radio" aria-checked="false" aria-controls="editorInkParamsToolbar" tabindex="32" data-l10n-id="pdfjs-editor-ink-button">
                     <span data-l10n-id="pdfjs-editor-ink-button-label">Draw</span>
                   </button>
-                  <button id="editorStamp" class="toolbarButton" disabled="disabled" title="Add or edit images" role="radio" aria-checked="false" aria-controls="editorStampParamsToolbar" tabindex="33" data-l10n-id="pdfjs-editor-stamp-button">
+                                       <!-- 隐藏button方法， 在class属性添加“visibleMediumView”即可 --> 
+                  <button id="editorStamp" class="toolbarButton visibleMediumView" disabled="disabled" title="Add or edit images" role="radio" aria-checked="false" aria-controls="editorStampParamsToolbar" tabindex="33" data-l10n-id="pdfjs-editor-stamp-button">
                     <span data-l10n-id="pdfjs-editor-stamp-button-label">Add or edit images</span>
                   </button>
                 </div>
