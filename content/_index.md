@@ -101,6 +101,16 @@ sections:
       columns: '1'
       view: compact
 
+  - block: collection
+    id: event
+    content:
+      title: Recent event
+      filters:
+        folders:
+          - posts
+    design:
+      columns: '1'
+      view: compact
 
 
 

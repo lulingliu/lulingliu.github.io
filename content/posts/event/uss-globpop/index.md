@@ -1,8 +1,13 @@
 ---
+
+
+
+
 title: 1st USS - GlobPOP
 # date: "2023-12-15"
 # event: Wowchemy Conference
 # event_url: https://example.org
+profile: true
 
 event: 1st Urban Science and Sustainability (USS) Conference
 event_url: https://www.ussconference.net/ussc/en
@@ -25,14 +30,15 @@ authors:
 - "Xin Cao"
 - "Shijie Li"
 - "Na Jie"
+
 author_notes:
-- "State Key Laboratory of Remote Sensing Science, Faculty of Geographical Science, Beijing Normal University"
-- "State Key Laboratory of Remote Sensing Science, Faculty of Geographical Science, Beijing Normal University"
-- "State Key Laboratory of Remote Sensing Science, Faculty of Geographical Science, Beijing Normal University"
-- "State Key Laboratory of Remote Sensing Science, Faculty of Geographical Science, Beijing Normal University"
+- "Beijing Normal University"
+- "Beijing Normal University"
+- "Beijing Normal University"
+- "Beijing Normal University"
 
 
-tags: []
+tags: ["event"]
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -72,12 +78,14 @@ slides: ''
 
 ---
 
-     
+ <iframe src="uploads/USS_2023_GlobPOP_Luling Liu.pdf" width="100%" height="100%" scrolling="yes" ></iframe>    
 
 
 {{% callout note %}}
 Click on the **Slides** button above to view the slides.
 {{% /callout %}}
+
+<iframe src="https://lulingliu.github.io/uploads/USS_2023_GlobPOP_Luling%20Liu.pdf" width="100%" height="100%" scrolling="yes" ></iframe>   
 
 <!-- Slides can be added in a few ways:
 
@@ -107,4 +115,4 @@ To validate the temporal accuracy of GlobPOP at the country level, we have devel
 
 
 
-<iframe src="https://globpop.shinyapps.io/GlobPOP/" width="100%" height="100%" ></iframe>
+<iframe src="https://globpop.shinyapps.io/GlobPOP/" width="100%" height="100%" scrolling="yes" ></iframe>
