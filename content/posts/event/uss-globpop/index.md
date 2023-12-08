@@ -7,8 +7,7 @@ profile: true
 
 
 
-summary: Welcome to view the GlobPOP. 
-You can view and download the poster, slides, dataset, reproducible code, temporal validation results.
+summary: Welcome to view the GlobPOP.  You can view and download the poster, slides, dataset, reproducible code, temporal validation results.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
