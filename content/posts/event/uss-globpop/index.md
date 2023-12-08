@@ -1,6 +1,6 @@
 ---
 title: 1st USS - GlobPOP
-date: "2023-12-15"
+# date: "2023-12-15"
 # event: Wowchemy Conference
 # event_url: https://example.org
 
@@ -18,7 +18,7 @@ summary: Welcome to view the GlobPOP. You can view and download the dataset, rep
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
-# publishDate: '2023-01-01T00:00:00Z'
+# publishDate: '2023-12-15T00:00:00Z'
 
 authors:
 - "Luling Liu"
