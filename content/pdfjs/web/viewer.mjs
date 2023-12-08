@@ -8094,7 +8094,7 @@ const defaultOptions = {
 }
 {
   defaultOptions.defaultUrl = {
-    value: "compressed.tracemonkey-pldi-09.pdf",
+    value: "../static/uploads/USS_2023_GlobPOP_Luling_Liu.pdf",
     kind: OptionKind.VIEWER
   };
   defaultOptions.disablePreferences = {
