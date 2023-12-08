@@ -48,8 +48,8 @@ featured: true
 # url_code: ''
 # url_pdf: ''
 
-url_slides: uploads/USS_2023_GlobPOP_Luling Liu.pdf
-url_poster: uploads/USS_2023_GlobPOP_Luling Liu.pdf
+url_slides: uploads/USS_2023_GlobPOP_Luling_Liu.pdf
+url_poster: uploads/Poster_USS_2023_GlobPOP_share.pdf
 url_dataset: 'https://zenodo.org/doi/10.5281/zenodo.7813301'
 url_code: 'https://github.com/lulingliu/GlobPOP'
 
@@ -110,8 +110,9 @@ From one drive - pdf
 <iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://lulingliu.github.io/uploads/USS_2023_GlobPOP_Luling_Liu.pdf" width="100%" height="350px"  frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> -->
 
 
+## Slides
 
-<iframe src="https://lulingliu.github.io/pdfjs/web/viewer.html?file=/uploads/USS_2023_GlobPOP_Luling_Liu.pdf" width="90%" height="350px"  frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://lulingliu.github.io/pdfjs/web/viewer.html?file=/uploads/USS_2023_GlobPOP_Luling_Liu.pdf" width="100%" height="350px"  frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <!-- Slides can be added in a few ways:
 
@@ -123,9 +124,9 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
 
 <!-- <iframe src="https://onedrive.live.com/embed?resid=D14E0CC306E1B8F1%213105&authkey=!AEIMMklQRUTiZjU&em=2" width="100%" height="100%"  frameborder="0" scrolling="yes"></iframe> -->
 
+## Poster
 
-
-
+<iframe src="https://lulingliu.github.io/pdfjs/web/viewer.html?file=/uploads/Poster_USS_2023_GlobPOP_share.pdf" width="100%" height="350px"  frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 
@@ -141,7 +142,7 @@ To validate the temporal accuracy of GlobPOP at the country level, we have devel
 
 
 
-<iframe src="https://globpop.shinyapps.io/GlobPOP/" width="100%" height=300 scrolling="yes" ></iframe>
+<iframe src="https://globpop.shinyapps.io/GlobPOP/" frameborder="0" width="100%" height="350px" scrolling="yes" ></iframe>
 
 ## Event
 
