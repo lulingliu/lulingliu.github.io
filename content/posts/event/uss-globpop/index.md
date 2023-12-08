@@ -95,8 +95,8 @@ From one drive - pdf
 <!-- <iframe src="https://onedrive.live.com/embed?resid=D14E0CC306E1B8F1%213103&amp;authkey=%21AC6Tf6smUPzLAs0&amp;em=2&amp;wdAr=1.7755102040816326&amp;Embed=1" width="292px" height="327px" frameborder="0"></iframe> -->
 
 
-From pan_bnu
-<iframe src="https://pan.bnu.edu.cn/l/m1n7KX" width="100%" height="350px"  frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<!-- From pan_bnu
+<iframe src="https://pan.bnu.edu.cn/l/m1n7KX" width="100%" height="350px"  frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> -->
 
 <!-- 另一种嵌入
 <object data="https://pan.bnu.edu.cn/l/m1n7KX" type="application/pdf" width="750px" height="750px">
@@ -107,11 +107,11 @@ From pan_bnu
 
 pdfjs-mozilla.github.io
 
-<iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://lulingliu.github.io/uploads/USS_2023_GlobPOP_Luling%20Liu.pdf" width="100%" height="350px"  frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://lulingliu.github.io/uploads/USS_2023_GlobPOP_Luling_Liu.pdf" width="100%" height="350px"  frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 pdfjs-Mine
 
-<iframe src="https://lulingliu.github.io/pdfjs/web/viewer.html?file=uploads/USS_2023_GlobPOP_Luling_Liu.pdf" width="100%" height="350px"  frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://lulingliu.github.io/pdfjs/web/viewer.html?file=/uploads/USS_2023_GlobPOP_Luling_Liu.pdf" width="100%" height="100%"  frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <!-- Slides can be added in a few ways:
 
