@@ -99,13 +99,15 @@ From one drive - pdf
 From pan_bnu
 <iframe src="https://pan.bnu.edu.cn/l/m1n7KX" width="100%" height="350px"  frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-另一种嵌入
+<!-- 另一种嵌入
 <object data="https://pan.bnu.edu.cn/l/m1n7KX" type="application/pdf" width="750px" height="750px">
     <embed src="https://pan.bnu.edu.cn/l/m1n7KX" type="application/pdf">
     </embed>
-</object>
+</object> -->
+
 
 pdfjs
+
 <iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://lulingliu.github.io/uploads/USS_2023_GlobPOP_Luling%20Liu.pdf" width="100%" height="350px"  frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
