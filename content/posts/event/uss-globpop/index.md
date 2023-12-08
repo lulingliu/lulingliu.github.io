@@ -47,10 +47,11 @@ featured: true
 #     url: https://twitter.com/georgecushen
 # url_code: ''
 # url_pdf: ''
-url_poster: uploads/USS_2023_GlobPOP_Luling Liu.pdf
+
 url_slides: uploads/USS_2023_GlobPOP_Luling Liu.pdf
-url_code: 'https://github.com/lulingliu/GlobPOP'
+url_poster: uploads/USS_2023_GlobPOP_Luling Liu.pdf
 url_dataset: 'https://zenodo.org/doi/10.5281/zenodo.7813301'
+url_code: 'https://github.com/lulingliu/GlobPOP'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -76,6 +77,9 @@ slides: ''
 
 You can **view and download** the poster, slides, dataset, reproducible code, temporal validation results.
 
+{{% callout note %}}
+Click on the **Slides**、**Poster**、**Dataset**、**Code** button above to download.
+{{% /callout %}}
 
 <!-- 
 From google drive - ppt
@@ -94,9 +98,13 @@ From one drive - pdf
 From pan_bnu
 <iframe src="https://pan.bnu.edu.cn/l/m1n7KX" width="100%" height="350px"  frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-{{% callout note %}}
-Click on the **Slides** button above to download the slides.
-{{% /callout %}}
+另一种嵌入
+<object data="https://pan.bnu.edu.cn/l/m1n7KX" type="application/pdf" width="750px" height="750px">
+    <embed src="https://pan.bnu.edu.cn/l/m1n7KX" type="application/pdf">
+    </embed>
+</object>
+
+
 
 
 <!-- Slides can be added in a few ways:
