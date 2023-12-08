@@ -7,7 +7,8 @@ profile: true
 
 
 
-summary: Welcome to view the GlobPOP. You can view and download the dataset, reproducible code, temporal validation results and PowerPoint further.
+summary: Welcome to view the GlobPOP. 
+You can view and download the poster, slides, dataset, reproducible code, temporal validation results.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -18,17 +19,17 @@ summary: Welcome to view the GlobPOP. You can view and download the dataset, rep
 # Schedule page publish date (NOT talk date).
 # publishDate: '2023-12-15T00:00:00Z'
 
-authors:
-- "Luling Liu"
-- "Xin Cao"
-- "Shijie Li"
-- "Na Jie"
+# authors:
+# - "Luling Liu"
+# - "Xin Cao"
+# - "Shijie Li"
+# - "Na Jie"
 
-author_notes:
-- "Beijing Normal University"
-- "Beijing Normal University"
-- "Beijing Normal University"
-- "Beijing Normal University"
+# author_notes:
+# - "Beijing Normal University"
+# - "Beijing Normal University"
+# - "Beijing Normal University"
+# - "Beijing Normal University"
 
 
 tags: ["event"]
@@ -92,7 +93,7 @@ From one drive - pdf
 <!-- From one drive - ppt
 <iframe src="https://onedrive.live.com/embed?resid=D14E0CC306E1B8F1%213103&authkey=!AC6Tf6smUPzLAs0&em=2" width="402" height="327" frameborder="0" scrolling="no"></iframe>
 
-<iframe src="https://onedrive.live.com/embed?resid=D14E0CC306E1B8F1%213103&amp;authkey=%21AC6Tf6smUPzLAs0&amp;em=2&amp;wdAr=1.7755102040816326&amp;Embed=1" width="292px" height="327px" frameborder="0"></iframe> --> -->
+<!-- <iframe src="https://onedrive.live.com/embed?resid=D14E0CC306E1B8F1%213103&amp;authkey=%21AC6Tf6smUPzLAs0&amp;em=2&amp;wdAr=1.7755102040816326&amp;Embed=1" width="292px" height="327px" frameborder="0"></iframe> -->
 
 
 From pan_bnu
@@ -104,6 +105,8 @@ From pan_bnu
     </embed>
 </object>
 
+pdfjs
+<iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://lulingliu.github.io/uploads/USS_2023_GlobPOP_Luling%20Liu.pdf" width="100%" height="350px"  frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 
