@@ -47,6 +47,7 @@ featured: true
 #     url: https://twitter.com/georgecushen
 # url_code: ''
 # url_pdf: ''
+url_poster: uploads/USS_2023_GlobPOP_Luling Liu.pdf
 url_slides: uploads/USS_2023_GlobPOP_Luling Liu.pdf
 url_code: 'https://github.com/lulingliu/GlobPOP'
 url_dataset: 'https://zenodo.org/doi/10.5281/zenodo.7813301'
@@ -91,7 +92,7 @@ From one drive - pdf
 
 
 From pan_bnu
-<iframe src="https://pan.bnu.edu.cn/l/m1n7KX" width="476" height="288"  frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://pan.bnu.edu.cn/l/m1n7KX" width="100%" height="350px"  frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 {{% callout note %}}
 Click on the **Slides** button above to download the slides.
