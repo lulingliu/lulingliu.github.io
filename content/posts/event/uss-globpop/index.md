@@ -126,20 +126,14 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
 
 ## Poster
 
-<iframe src="https://lulingliu.github.io/pdfjs/web/viewer.html?file=/uploads/Poster_USS_2023_GlobPOP_share.pdf" width="100%" height="350px"  frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://lulingliu.github.io/pdfjs/web/viewer.html?file=/uploads/Poster_USS_2023_GlobPOP_share.pdf" width="100%" height="750px"  frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 
-## Abstract
-
-Continuously monitoring global population spatial dynamics is crucial for implementing effective policies related to sustainable development, including epidemiology, urban planning, and global inequality. However, existing global gridded population products lack consistent population estimates, making them unsuitable for time-series analysis. To address this issue, this study designed a data fusion framework based on cluster analysis and statistical learning approaches, which led to the generation of a continuous global gridded population dataset (GlobPOP). 
-
-
-The GlobPOP dataset was evaluated through two-tier spatial and temporal validation to demonstrate its accuracy and applicability. The spatial validation results show that the GlobPOP dataset is highly accurate. The temporal validation results also reveal that the GlobPOP dataset performs consistently well across eight representative countries and cities despite their unique population dynamics. With the availability of GlobPOP datasets in both population count and population density formats, researchers and policymakers can leverage the new dataset to conduct time-series analysis of the population and explore the spatial patterns of population development at global, national, and city levels. 
+## Temporal validation
 
 
 To validate the temporal accuracy of GlobPOP at the country level, we have developed an interactive web application, accessible at https://globpop.shinyapps.io/GlobPOP/, where data users can explore the country level population time-series curves of interest and compare them with census data.
-
 
 
 <iframe src="https://globpop.shinyapps.io/GlobPOP/" frameborder="0" width="100%" height="350px" scrolling="yes" ></iframe>
