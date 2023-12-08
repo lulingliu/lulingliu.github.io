@@ -81,8 +81,8 @@ From google drive - ppt
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ08Ir0GjHEn7OcKS7dFxLOWexDBVez4At_Qg0UM1XZr3KpHkUct1xi3L0rBP9JM1VYfzqjPXxqyVnB/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="100%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>  
 
 From one drive - pdf
-<iframe src="https://1drv.ms/b/s!AvG44QbDDE7RmCH_7hPMJRw3M4x2?e=19AdkQ" frameborder="0" width="100%" height="100%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>  
-
+<iframe src="https://onedrive.live.com/embed?resid=D14E0CC306E1B8F1%213105&authkey=!AEIMMklQRUTiZjU&em=2" frameborder="0" width="100%" height="100%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>  
+<!-- <iframe src="https://onedrive.live.com/embed?resid=D14E0CC306E1B8F1%213105&authkey=!AEIMMklQRUTiZjU&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe> -->
 {{% callout note %}}
 Click on the **Slides** button above to download the slides.
 {{% /callout %}}
