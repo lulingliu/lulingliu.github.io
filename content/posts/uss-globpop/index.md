@@ -1,19 +1,14 @@
 ---
-cascade:
-  # Configure blog posts
-  - _target:
-      path: /post/**
-    header:
-        navbar:
-            enable: true
 title: 1st USS - GlobPOP
-date: "2023-12-14T00:00:00Z"
+# date: "2023-12-15"
 # event: Wowchemy Conference
 # event_url: https://example.org
 
+event: 1st Urban Science and Sustainability (USS) Conference
+event_url: https://www.ussconference.net/ussc/en
 
 
-# summary: An example talk using Wowchemy's Markdown slides feature.
+
 summary: Welcome to view the GlobPOP. You can view and download the dataset, reproducible code, temporal validation results and PowerPoint further.
 
 # Talk start and end times.
