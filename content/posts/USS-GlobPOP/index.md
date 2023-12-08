@@ -1,8 +1,17 @@
 ---
+cascade:
+  # Configure blog posts
+  - _target:
+      path: /post/**
+    header:
+        navbar:
+            enable: true
 title: 1st USS - GlobPOP
 date: "2023-12-14T00:00:00Z"
 # event: Wowchemy Conference
 # event_url: https://example.org
+
+
 
 # summary: An example talk using Wowchemy's Markdown slides feature.
 summary: Welcome to view the GlobPOP. You can view and download the dataset, reproducible code, temporal validation results and PowerPoint further.
@@ -16,11 +25,23 @@ summary: Welcome to view the GlobPOP. You can view and download the dataset, rep
 # Schedule page publish date (NOT talk date).
 # publishDate: '2023-01-01T00:00:00Z'
 
-authors: []
+authors:
+- "Luling Liu"
+- "Xin Cao"
+- "Shijie Li"
+- "Na Jie"
+author_notes:
+- "State Key Laboratory of Remote Sensing Science, Faculty of Geographical Science, Beijing Normal University"
+- "State Key Laboratory of Remote Sensing Science, Faculty of Geographical Science, Beijing Normal University"
+- "Beijing Engineering Research Center for Global Land Remote Sensing Products, Faculty of Geographical Science, Beijing Normal University"
+- "State Key Laboratory of Remote Sensing Science, Faculty of Geographical Science, Beijing Normal University"
+- "State Key Laboratory of Remote Sensing Science, Faculty of Geographical Science, Beijing Normal University"
+
+
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 # image:
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -76,15 +97,9 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
 
 
 
-{{% callout note %}}
-Click on the **Slides** button above to view the slides.
-{{% /callout %}}
-
-To validate the temporal accuracy of GlobPOP at the country level, we have developed an interactive web application, accessible at https://globpop.shinyapps.io/GlobPOP/, where data users can explore the country level population time-series curves of interest and compare them with census data.
 
 
 
-<iframe src="https://globpop.shinyapps.io/GlobPOP/" width="600" height="400"></iframe>
 
 **Abstract**
 
