@@ -105,13 +105,13 @@ From one drive - pdf
 </object> -->
 
 
-pdfjs-mozilla.github.io
+<!-- pdfjs-mozilla.github.io
 
-<iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://lulingliu.github.io/uploads/USS_2023_GlobPOP_Luling_Liu.pdf" width="100%" height="350px"  frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://lulingliu.github.io/uploads/USS_2023_GlobPOP_Luling_Liu.pdf" width="100%" height="350px"  frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> -->
 
 pdfjs-Mine
 
-<iframe src="https://lulingliu.github.io/pdfjs/web/viewer.html?file=/uploads/USS_2023_GlobPOP_Luling_Liu.pdf" width="100%" height="300px"  frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://lulingliu.github.io/pdfjs/web/viewer.html?file=/uploads/USS_2023_GlobPOP_Luling_Liu.pdf" width="90%" height="350px"  frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <!-- Slides can be added in a few ways:
 
