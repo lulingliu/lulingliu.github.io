@@ -2207,9 +2207,9 @@
   --loading-icon:url(images/loading.svg);
   --treeitem-expanded-icon:url(images/treeitem-expanded.svg);
   --treeitem-collapsed-icon:url(images/treeitem-collapsed.svg);
-  /* --toolbarButton-editorFreeText-icon:url(images/toolbarButton-editorFreeText.svg);
+  --toolbarButton-editorFreeText-icon:url(images/toolbarButton-editorFreeText.svg);
   --toolbarButton-editorInk-icon:url(images/toolbarButton-editorInk.svg);
-  --toolbarButton-editorStamp-icon:url(images/toolbarButton-editorStamp.svg); */
+  --toolbarButton-editorStamp-icon:url(images/toolbarButton-editorStamp.svg);
   --toolbarButton-menuArrow-icon:url(images/toolbarButton-menuArrow.svg);
   --toolbarButton-sidebarToggle-icon:url(images/toolbarButton-sidebarToggle.svg);
   --toolbarButton-secondaryToolbarToggle-icon:url(images/toolbarButton-secondaryToolbarToggle.svg);
@@ -2219,7 +2219,7 @@
   --toolbarButton-zoomIn-icon:url(images/toolbarButton-zoomIn.svg);
   --toolbarButton-presentationMode-icon:url(images/toolbarButton-presentationMode.svg);
   --toolbarButton-print-icon:url(images/toolbarButton-print.svg);
-  /* --toolbarButton-openFile-icon:url(images/toolbarButton-openFile.svg); */
+  --toolbarButton-openFile-icon:url(images/toolbarButton-openFile.svg);
   --toolbarButton-download-icon:url(images/toolbarButton-download.svg);
   --toolbarButton-bookmark-icon:url(images/toolbarButton-bookmark.svg);
   --toolbarButton-viewThumbnail-icon:url(images/toolbarButton-viewThumbnail.svg);
@@ -3092,7 +3092,7 @@ body{
           mask-image:var(--toolbarButton-presentationMode-icon);
 }
 
-/* #editorFreeText::before{
+#editorFreeText::before{
   -webkit-mask-image:var(--toolbarButton-editorFreeText-icon);
           mask-image:var(--toolbarButton-editorFreeText-icon);
 }
@@ -3105,17 +3105,17 @@ body{
 #editorStamp::before{
   -webkit-mask-image:var(--toolbarButton-editorStamp-icon);
           mask-image:var(--toolbarButton-editorStamp-icon);
-} */
+}
 
 :is(#print, #secondaryPrint)::before{
   -webkit-mask-image:var(--toolbarButton-print-icon);
           mask-image:var(--toolbarButton-print-icon);
 }
 
-/* #secondaryOpenFile::before{
+#secondaryOpenFile::before{
   -webkit-mask-image:var(--toolbarButton-openFile-icon);
           mask-image:var(--toolbarButton-openFile-icon);
-} */
+}
 
 :is(#download, #secondaryDownload)::before{
   -webkit-mask-image:var(--toolbarButton-download-icon);

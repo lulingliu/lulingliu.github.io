@@ -111,7 +111,7 @@ pdfjs-mozilla.github.io
 
 pdfjs-Mine
 
-<iframe src="https://lulingliu.github.io/pdf_read/generic/web/viewer_readonly.html?file=/uploads/USS_2023_GlobPOP_Luling_Liu.pdf" width="100%" height="300px"  frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://lulingliu.github.io/pdfjs/web/viewer_readonly.html?file=/uploads/USS_2023_GlobPOP_Luling_Liu.pdf" width="100%" height="300px"  frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <!-- Slides can be added in a few ways:
 
