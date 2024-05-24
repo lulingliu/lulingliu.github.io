@@ -2,31 +2,24 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Luling Liu
+    - name: Email
+      value: lulingliu@mail.bnu.edu.cn
+    - name: Affiliation
+      value: Beijing Normal University
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: MEng
+      institution: Beijing Normal University, China
+      year: 2021 - 2024
+      description: Cartography and Geographic Information Engineering
+    - title: BSc
+      institution: China University of Geosciences(Beijing), China  
+      year: 2017 - 2021
+      description: Geographic Information Science
+
 
 - title: Experience
   type: time_table
