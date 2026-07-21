@@ -7,13 +7,13 @@ first_name: Luling
 middle_name: ''
 last_name: Liu
 email: lulingliu@mail.bnu.edu.cn # you@example.com
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+description: >- # the ">" symbol means to ignore newlines until "footer_text:"
+  Academic homepage of Luling Liu.
 footer_text: > # Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: #jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🐱 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://lulingliu.github.io/ # the base hostname & protocol for your site
 baseurl:  '' # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -21,7 +21,7 @@ last_updated: false # set to true if you want to display last updated in the foo
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
-# Theme
+# Theme settings
 # -----------------------------------------------------------------------------
 
 # repo color theme
@@ -46,8 +46,9 @@ rss_icon: true
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
-socials_in_search: true
+
+#search_enabled: true
+#socials_in_search: true
 
 # Dimensions
 max_width: 930px
@@ -74,7 +75,7 @@ dblp_url: # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
 facebook_id: # your facebook id
 flickr_id: # your flickr id
-github_username: # your GitHub user name
+github_username: lulingliu # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
 instagram_id: # your instagram id
@@ -108,7 +109,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: > # You can even add a little note about which of these is the best way to reach you.
-   Please contact me via email. 
+   Best way to reach me is via email.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -123,48 +124,15 @@ cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 google_site_verification: # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
-# -----------------------------------------------------------------------------
-# Blog
-# -----------------------------------------------------------------------------
-
-blog_name: Blog # blog_name will be displayed in your blog page
-blog_description:  
-permalink: /blog/:year/:title/
-lsi: true # produce an index for related posts
-
 # Pagination
 pagination:
-  enabled: true
+  enabled: true # value of 0 will hide all pagination buttons
+  per_page: 5 # number of posts per page
+  sort_reverse: true # sort posts in reverse order (i.e. newest first)
+  trail:
+    before: 1 # number of pages before current page
+    after: 3 # number of pages after current page
 
-related_blog_posts:
-  enabled: true
-  max_related: 2
-
-# Giscus comments (RECOMMENDED)
-# Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
-giscus:
-  repo: # <your-github-user-name>/<your-github-repo-name>
-  repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
-  category: Comments # name of the category under which discussions will be created
-  category_id: # leave empty or specify your category_id (see https://giscus.app/)
-  mapping: title # identify discussions by post title
-  strict: 1 # use strict identification mode
-  reactions_enabled: 1 # enable (1) or disable (0) emoji reactions
-  input_position: bottom # whether to display input form below (bottom) or above (top) the comments
-  theme: preferred_color_scheme # name of the color scheme (preferred works well with al-folio light/dark mode)
-  emit_metadata: 0
-  lang: en
-
-# Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
-# https://help.disqus.com/en/articles/1717111-what-s-a-shortname
-
-# External sources.
-# If you have blog posts published on medium.com or other external sources,
-# you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -175,10 +143,10 @@ collections:
     defaults:
       layout: post
     output: true
-    permalink: /news/:path/
+    permalink: /:collection/:title/
   projects:
     output: true
-    permalink: /projects/:path/
+    permalink: /:collection/:title/
 
 announcements:
   enabled: true
@@ -186,7 +154,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
@@ -211,23 +179,8 @@ kramdown:
 include: ["_pages"]
 exclude:
   - bin/
-  - CONTRIBUTING.md
-  - CUSTOMIZE.md
-  - Dockerfile
-  - docker-compose.yml
-  - docker-compose-slim.yml
-  - FAQ.md
   - Gemfile
   - Gemfile.lock
-  - INSTALL.md
-  - LICENSE
-  - lighthouse_results/
-  - package.json
-  - package-lock.json
-  - _pages/about_einstein.md
-  - purgecss.config.js
-  - README.md
-  - readme_preview/
   - vendor
 keep_files:
   - CNAME
@@ -293,8 +246,8 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Luling]
+  first_name: [LIU]
 
   style: apa
   locale: en
@@ -311,6 +264,7 @@ scholar:
   join_strings: true
 
   details_dir: bibliography
+  details_layout: bibtex.html
   details_link: Details
 
   query: "@*"
